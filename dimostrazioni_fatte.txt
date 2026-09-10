@@ -1,0 +1,89 @@
+Elenco delle  dimostrazioni svolte durante il corso di
+Analisi 1 - Canale 4 (Lb-O), Ingegneria - Universita' Di Roma "Tor Vergata"
+A.A. 2025-26
+
+(N.B. alcune cose viste ovvie che non compaiono in questa lista verranno comunque richieste. A titolo di esempio, la non esistenza della radice di un numero primo, anche diverso da 2)
+
+
+*) Numerabilita' dei razionali (primo procedimento diagonale di Cantor)
+*) Non esistenza della radice di 2 in Q.
+*) Disuguaglianza di Bernoulli
+*) Binomio di Newton
+*) Unicita' dell'elemento di separazione nell'assima di Dedekind
+*) Unicita' del massimo, quando esiste
+*) Caratterizzazione dell'estremo superiore
+*) Espansione decimale dei reali
+*) Non numerabilita' dei reali
+*) Proprieta' del logaritmo
+*) Proprieta' del valore assoluto
+*) Necessita' della condizione di Cauchy per la convergenza di successioni
+*) Unicita' del limite
+*) Teorema di permanenza del segno
+*) Teoremi di confronto
+*) "Limitata per infinitesima"
+*) Convergente implica limitata
+*) Algebra dei limiti
+*) Continuita'delle funzioni elementari
+*) Limite per successioni monotone
+*) Numero di Nepero
+*) Criterio del rapporto per successioni
+*) Teorema di Bolzano-Weierstrass
+*) Il limite esiste se e solo se esistono e sono uguali il limite destro e sinistro
+*) Unicita' del limite
+*) Permanenza del segno
+*) Teorema "ponte"
+*) Algebra dei limiti
+*) Algebra estesa dei limiti (p.es. infinito + limitata inferiormente)
+*) Teoremi di confronto
+*) Limite di funzioni composte
+*) Continuita' del massimo e del minimo di due funzioni continue
+*) (dis)continuita' nelle funzioni monotone
+*) Teorema degli zeri e corollario sull'intersezione di funzioni continue
+*) Teorema dei valori intermedi
+*) Iniettive su intervallo => strettamente monotone
+*) Teorema di Weierstrass
+*) Teorema di Heine-Cantor
+*) Derivabilita' implica continuita'
+*) Calcolo di derivate delle funzioni elementari
+*) Algebra delle derivate
+*) Derivata di funzioni pari e' dispari
+*) Derivata funzioni composte
+*) Derivata funzioni inverse
+*) Teorema di Fermat
+*) Teorema di Rolle
+*) Teorema di Lagrange
+*) Teorema di Cauchy
+*) Unicita' delle primitive a meno di costanti
+*) Monotonia vs derivata
+*) Convessita ed esistenza e monotonia delle derivate destre e sinistre in un intervallo aperto
+*) Corollario sul segno della derivata seconda (se esiste) di funzioni convesse
+*) Derivata seconda in punti di flesso e' zero
+*) Calcolo delle funzioni iperboliche inverse e relative derivate
+*) Teorema di De L'Hospital nel caso 0/0
+*) Sviluppo di Taylor con resto di Peano
+*) Derivate successive nello studio dei punti critici
+*) Sviluppo di Taylor con resto di Lagrange
+*) Irrazionalita'del numero di nepero
+*) Proprieta' del coniugato nei complessi
+*) Proprieta' del modulo nei complessi
+*) Estrazione di radici nei complessi
+*) Scomposizione di un polinomio di secondo grado nei complessi
+*) Corollario del teorema fondamentale dell'algebra relativo ai polinomi a coefficienti reali
+*) Criteri di integrabilita' (Teorema 7.10 del testo di riferimento)
+*) Additivita' dell'integrale rispetto al dominio di integrazione
+*) Integrabilita' delle funzioni monotone
+*) Integrabilita' delle funzioni continue
+*) Linearita' e monotonia dell'integrale
+*) Integrabilita' della parte positiva, negativa e valore assoluto
+*) Teorema della media integrale
+*) Continuita' della funzione integrale
+*) Primo teorema fondamentale del calcolo integrale
+*) Secondo teorema fondamentale del calcolo integrale
+*) Integrazione per parti e per sostituzione
+*) Criterio di confronto per convergenza integrali impropri
+*) Criterio di confronto asintotici per convergenza integrali impropri
+*) Assoluta convergenza di integrali impropri implica convergenza semplice
+*) Soluzione EDO lineari del primo ordine
+*) Struttura delle soluzioni delle EDO lineari (meno dimensione)
+*) Soluzione EDO lineari del secondo ordine a coefficienti costanti omogenee 
+*) EDO a variabili separabili: giustificazione del metodo

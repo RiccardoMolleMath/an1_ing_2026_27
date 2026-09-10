@@ -1,0 +1,8 @@
+
+Basta non sapere una di queste cose per essere bocciati
+Non basta sapere tutte queste cose per essere promossi
+
+*) definizione di limite per successioni e per funzioni (capite, NON imparate a memoria)
+*) definizione di derivata (capita, NON imparata a memoria)
+*) calcolo delle derivate elementari
+*) Teorema che mette in relazione la monotonia ed il segno della derivata e dimostrazione (capita, NON imparata a memoria)
