@@ -6,7 +6,7 @@ A.A. 2026-27
 
 *) Numerabilita' dei razionali (primo procedimento diagonale di Cantor)
 
-Ulteriori imostrazioni fatte nel passato anno accademico e che verranno probabilmente fatte quest'anno:
+Ulteriori dimostrazioni spiegate nel passato anno accademico e che verranno probabilmente svolte anche quest'anno:
 
 *) Non esistenza della radice di 2 in Q.
 *) Disuguaglianza di Bernoulli
