@@ -1,10 +1,10 @@
 Elenco delle  dimostrazioni svolte durante il corso di
-Analisi 1 - Canale 4 (Lb-O), Ingegneria - Universita' Di Roma "Tor Vergata"
-A.A. 2025-26
+Analisi 1 - Canale 3 (E-La), Ingegneria - Universita' Di Roma "Tor Vergata"
+A.A. 2026-27
 
 (N.B. alcune cose viste ovvie che non compaiono in questa lista verranno comunque richieste. A titolo di esempio, la non esistenza della radice di un numero primo, anche diverso da 2)
 
-
+<!--
 *) Numerabilita' dei razionali (primo procedimento diagonale di Cantor)
 *) Non esistenza della radice di 2 in Q.
 *) Disuguaglianza di Bernoulli
@@ -87,3 +87,4 @@ A.A. 2025-26
 *) Struttura delle soluzioni delle EDO lineari (meno dimensione)
 *) Soluzione EDO lineari del secondo ordine a coefficienti costanti omogenee 
 *) EDO a variabili separabili: giustificazione del metodo
+-->
