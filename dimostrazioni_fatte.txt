@@ -4,8 +4,10 @@ A.A. 2026-27
 
 (N.B. alcune cose viste ovvie che non compaiono in questa lista verranno comunque richieste. A titolo di esempio, la non esistenza della radice di un numero primo, anche diverso da 2)
 
-<!--
 *) Numerabilita' dei razionali (primo procedimento diagonale di Cantor)
+
+Ulteriori imostrazioni fatte nel passato anno accademico e che verranno probabilmente fatte quest'anno:
+
 *) Non esistenza della radice di 2 in Q.
 *) Disuguaglianza di Bernoulli
 *) Binomio di Newton
@@ -87,4 +89,3 @@ A.A. 2026-27
 *) Struttura delle soluzioni delle EDO lineari (meno dimensione)
 *) Soluzione EDO lineari del secondo ordine a coefficienti costanti omogenee 
 *) EDO a variabili separabili: giustificazione del metodo
--->
