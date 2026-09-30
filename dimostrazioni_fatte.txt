@@ -5,12 +5,12 @@ A.A. 2026-27
 (N.B. alcune cose viste ovvie che non compaiono in questa lista verranno comunque richieste. A titolo di esempio, la non esistenza della radice di un numero primo, anche diverso da 2)
 
 *) Numerabilita' dei razionali (primo procedimento diagonale di Cantor)
-
-Ulteriori dimostrazioni spiegate nel passato anno accademico e che verranno probabilmente svolte anche quest'anno:
-
 *) Non esistenza della radice di 2 in Q.
 *) Disuguaglianza di Bernoulli
 *) Binomio di Newton
+
+Ulteriori dimostrazioni spiegate nel passato anno accademico e che verranno probabilmente svolte anche quest'anno:
+
 *) Unicita' dell'elemento di separazione nell'assima di Dedekind
 *) Unicita' del massimo, quando esiste
 *) Caratterizzazione dell'estremo superiore
