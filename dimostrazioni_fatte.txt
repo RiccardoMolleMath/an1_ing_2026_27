@@ -8,10 +8,10 @@ A.A. 2026-27
 *) Non esistenza della radice di 2 in Q.
 *) Disuguaglianza di Bernoulli
 *) Binomio di Newton
+*) Unicita' dell'elemento di separazione nell'assima di Dedekind
 
 Ulteriori dimostrazioni spiegate nel passato anno accademico e che verranno probabilmente svolte anche quest'anno:
 
-*) Unicita' dell'elemento di separazione nell'assima di Dedekind
 *) Unicita' del massimo, quando esiste
 *) Caratterizzazione dell'estremo superiore
 *) Espansione decimale dei reali
