@@ -13,10 +13,10 @@ A.A. 2026-27
 *) Caratterizzazione dell'estremo superiore
 *) Espansione decimale dei reali
 *) Non numerabilita' dei reali
+*) Proprieta' del logaritmo
 
 Ulteriori dimostrazioni spiegate nel passato anno accademico e che verranno probabilmente svolte anche quest'anno:
 
-*) Proprieta' del logaritmo
 *) Proprieta' del valore assoluto
 *) Necessita' della condizione di Cauchy per la convergenza di successioni
 *) Unicita' del limite
