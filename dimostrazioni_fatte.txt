@@ -19,11 +19,11 @@ A.A. 2026-27
 *) Unicita' del limite
 *) Teorema di permanenza del segno
 *) Teoremi di confronto
+*) "Limitata per infinitesima"
+*) Convergente implica limitata
 
 Ulteriori dimostrazioni spiegate nel passato anno accademico e che verranno probabilmente svolte anche quest'anno:
 
-*) "Limitata per infinitesima"
-*) Convergente implica limitata
 *) Algebra dei limiti
 *) Continuita'delle funzioni elementari
 *) Limite per successioni monotone
