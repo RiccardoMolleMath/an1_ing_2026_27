@@ -15,13 +15,13 @@ A.A. 2026-27
 *) Non numerabilita' dei reali
 *) Proprieta' del logaritmo
 *) Proprieta' del valore assoluto
-
-Ulteriori dimostrazioni spiegate nel passato anno accademico e che verranno probabilmente svolte anche quest'anno:
-
 *) Necessita' della condizione di Cauchy per la convergenza di successioni
 *) Unicita' del limite
 *) Teorema di permanenza del segno
 *) Teoremi di confronto
+
+Ulteriori dimostrazioni spiegate nel passato anno accademico e che verranno probabilmente svolte anche quest'anno:
+
 *) "Limitata per infinitesima"
 *) Convergente implica limitata
 *) Algebra dei limiti
