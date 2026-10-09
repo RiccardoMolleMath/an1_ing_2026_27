@@ -21,11 +21,11 @@ A.A. 2026-27
 *) Teoremi di confronto
 *) "Limitata per infinitesima"
 *) Convergente implica limitata
+*) Algebra dei limiti
+*) Continuita'delle funzioni elementari
 
 Ulteriori dimostrazioni spiegate nel passato anno accademico e che verranno probabilmente svolte anche quest'anno:
 
-*) Algebra dei limiti
-*) Continuita'delle funzioni elementari
 *) Limite per successioni monotone
 *) Numero di Nepero
 *) Criterio del rapporto per successioni
