@@ -23,11 +23,11 @@ A.A. 2026-27
 *) Convergente implica limitata
 *) Algebra dei limiti
 *) Continuita'delle funzioni elementari
+*) Limite per successioni monotone
+*) Numero di Nepero
 
 Ulteriori dimostrazioni spiegate nel passato anno accademico e che verranno probabilmente svolte anche quest'anno:
 
-*) Limite per successioni monotone
-*) Numero di Nepero
 *) Criterio del rapporto per successioni
 *) Teorema di Bolzano-Weierstrass
 *) Il limite esiste se e solo se esistono e sono uguali il limite destro e sinistro
