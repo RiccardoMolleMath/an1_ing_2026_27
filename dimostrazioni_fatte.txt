@@ -25,11 +25,11 @@ A.A. 2026-27
 *) Continuita'delle funzioni elementari
 *) Limite per successioni monotone
 *) Numero di Nepero
+*) Criterio del rapporto per successioni
+*) Teorema di Bolzano-Weierstrass
 
 Ulteriori dimostrazioni spiegate nel passato anno accademico e che verranno probabilmente svolte anche quest'anno:
 
-*) Criterio del rapporto per successioni
-*) Teorema di Bolzano-Weierstrass
 *) Il limite esiste se e solo se esistono e sono uguali il limite destro e sinistro
 *) Unicita' del limite
 *) Permanenza del segno
