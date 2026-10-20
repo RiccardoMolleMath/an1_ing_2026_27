@@ -28,12 +28,12 @@ A.A. 2026-27
 *) Criterio del rapporto per successioni
 *) Teorema di Bolzano-Weierstrass
 *) Il limite esiste se e solo se esistono e sono uguali il limite destro e sinistro
-
-Ulteriori dimostrazioni spiegate nel passato anno accademico e che verranno probabilmente svolte anche quest'anno:
-
 *) Unicita' del limite
 *) Permanenza del segno
 *) Teorema "ponte"
+
+Ulteriori dimostrazioni spiegate nel passato anno accademico e che verranno probabilmente svolte anche quest'anno:
+
 *) Algebra dei limiti
 *) Algebra estesa dei limiti (p.es. infinito + limitata inferiormente)
 *) Teoremi di confronto
