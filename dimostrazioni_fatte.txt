@@ -31,12 +31,12 @@ A.A. 2026-27
 *) Unicita' del limite
 *) Permanenza del segno
 *) Teorema "ponte"
-
-Ulteriori dimostrazioni spiegate nel passato anno accademico e che verranno probabilmente svolte anche quest'anno:
-
 *) Algebra dei limiti
 *) Algebra estesa dei limiti (p.es. infinito + limitata inferiormente)
 *) Teoremi di confronto
+
+Ulteriori dimostrazioni spiegate nel passato anno accademico e che verranno probabilmente svolte anche quest'anno:
+
 *) Limite di funzioni composte
 *) Continuita' del massimo e del minimo di due funzioni continue
 *) (dis)continuita' nelle funzioni monotone
