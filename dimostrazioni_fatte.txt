@@ -34,10 +34,10 @@ A.A. 2026-27
 *) Algebra dei limiti
 *) Algebra estesa dei limiti (p.es. infinito + limitata inferiormente)
 *) Teoremi di confronto
+*) Limite di funzioni composte
 
 Ulteriori dimostrazioni spiegate nel passato anno accademico e che verranno probabilmente svolte anche quest'anno:
 
-*) Limite di funzioni composte
 *) Continuita' del massimo e del minimo di due funzioni continue
 *) (dis)continuita' nelle funzioni monotone
 *) Teorema degli zeri e corollario sull'intersezione di funzioni continue
