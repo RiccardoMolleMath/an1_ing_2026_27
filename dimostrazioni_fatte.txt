@@ -37,12 +37,12 @@ A.A. 2026-27
 *) Limite di funzioni composte
 *) Continuita' del massimo e del minimo di due funzioni continue
 *) (dis)continuita' nelle funzioni monotone
-
-Ulteriori dimostrazioni spiegate nel passato anno accademico e che verranno probabilmente svolte anche quest'anno:
-
 *) Teorema degli zeri e corollario sull'intersezione di funzioni continue
 *) Teorema dei valori intermedi
 *) Iniettive su intervallo => strettamente monotone
+
+Ulteriori dimostrazioni spiegate nel passato anno accademico e che verranno probabilmente svolte anche quest'anno:
+
 *) Teorema di Weierstrass
 *) Teorema di Heine-Cantor
 *) Derivabilita' implica continuita'
