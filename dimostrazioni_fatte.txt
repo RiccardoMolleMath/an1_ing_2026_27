@@ -40,11 +40,11 @@ A.A. 2026-27
 *) Teorema degli zeri e corollario sull'intersezione di funzioni continue
 *) Teorema dei valori intermedi
 *) Iniettive su intervallo => strettamente monotone
+*) Teorema di Weierstrass
+*) Teorema di Heine-Cantor
 
 Ulteriori dimostrazioni spiegate nel passato anno accademico e che verranno probabilmente svolte anche quest'anno:
 
-*) Teorema di Weierstrass
-*) Teorema di Heine-Cantor
 *) Derivabilita' implica continuita'
 *) Calcolo di derivate delle funzioni elementari
 *) Algebra delle derivate
