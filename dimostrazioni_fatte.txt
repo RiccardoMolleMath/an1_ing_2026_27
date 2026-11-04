@@ -42,11 +42,11 @@ A.A. 2026-27
 *) Iniettive su intervallo => strettamente monotone
 *) Teorema di Weierstrass
 *) Teorema di Heine-Cantor
+*) Derivabilita' implica continuita'
+*) Calcolo di derivate delle funzioni elementari
 
 Ulteriori dimostrazioni spiegate nel passato anno accademico e che verranno probabilmente svolte anche quest'anno:
 
-*) Derivabilita' implica continuita'
-*) Calcolo di derivate delle funzioni elementari
 *) Algebra delle derivate
 *) Derivata di funzioni pari e' dispari
 *) Derivata funzioni composte
