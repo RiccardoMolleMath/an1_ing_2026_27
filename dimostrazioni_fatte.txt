@@ -44,13 +44,13 @@ A.A. 2026-27
 *) Teorema di Heine-Cantor
 *) Derivabilita' implica continuita'
 *) Calcolo di derivate delle funzioni elementari
-
-Ulteriori dimostrazioni spiegate nel passato anno accademico e che verranno probabilmente svolte anche quest'anno:
-
 *) Algebra delle derivate
 *) Derivata di funzioni pari e' dispari
 *) Derivata funzioni composte
 *) Derivata funzioni inverse
+
+Ulteriori dimostrazioni spiegate nel passato anno accademico e che verranno probabilmente svolte anche quest'anno:
+
 *) Teorema di Fermat
 *) Teorema di Rolle
 *) Teorema di Lagrange
