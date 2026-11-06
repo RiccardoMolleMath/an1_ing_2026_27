@@ -48,15 +48,15 @@ A.A. 2026-27
 *) Derivata di funzioni pari e' dispari
 *) Derivata funzioni composte
 *) Derivata funzioni inverse
-
-Ulteriori dimostrazioni spiegate nel passato anno accademico e che verranno probabilmente svolte anche quest'anno:
-
 *) Teorema di Fermat
 *) Teorema di Rolle
 *) Teorema di Lagrange
 *) Teorema di Cauchy
 *) Unicita' delle primitive a meno di costanti
-*) Monotonia vs derivata
+*) Monotonia vs derivata (criterio di monotonia)
+
+Ulteriori dimostrazioni spiegate nel passato anno accademico e che verranno probabilmente svolte anche quest'anno:
+
 *) Convessita ed esistenza e monotonia delle derivate destre e sinistre in un intervallo aperto
 *) Corollario sul segno della derivata seconda (se esiste) di funzioni convesse
 *) Derivata seconda in punti di flesso e' zero
