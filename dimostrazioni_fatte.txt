@@ -54,13 +54,13 @@ A.A. 2026-27
 *) Teorema di Cauchy
 *) Unicita' delle primitive a meno di costanti
 *) Monotonia vs derivata (criterio di monotonia)
-
-Ulteriori dimostrazioni spiegate nel passato anno accademico e che verranno probabilmente svolte anche quest'anno:
-
 *) Convessita ed esistenza e monotonia delle derivate destre e sinistre in un intervallo aperto
 *) Corollario sul segno della derivata seconda (se esiste) di funzioni convesse
 *) Derivata seconda in punti di flesso e' zero
 *) Calcolo delle funzioni iperboliche inverse e relative derivate
+
+Ulteriori dimostrazioni spiegate nel passato anno accademico e che verranno probabilmente svolte anche quest'anno:
+
 *) Teorema di De L'Hospital nel caso 0/0
 *) Sviluppo di Taylor con resto di Peano
 *) Derivate successive nello studio dei punti critici
