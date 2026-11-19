@@ -59,10 +59,10 @@ A.A. 2026-27
 *) Derivata seconda in punti di flesso e' zero
 *) Calcolo delle funzioni iperboliche inverse e relative derivate
 *) Teorema di De L'Hospital nel caso 0/0
+*) Sviluppo di Taylor con resto di Peano
 
 Ulteriori dimostrazioni spiegate nel passato anno accademico e che verranno probabilmente svolte anche quest'anno:
 
-*) Sviluppo di Taylor con resto di Peano
 *) Derivate successive nello studio dei punti critici
 *) Sviluppo di Taylor con resto di Lagrange
 *) Irrazionalita'del numero di nepero
